@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_fly():
-    return 'hello from fly.io'
+    return '<!-- POC by pdelteil -->'
